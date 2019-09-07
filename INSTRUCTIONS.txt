@@ -1,0 +1,24 @@
+##Create a movie listing app using the following endpoints (API's)
+
+Get all movies : https://pelec4.herokuapp.com/movies
+Get single movie : https://pelec4.herokuapp.com/movies/:movieId
+
+##Retrieve all the movies from the API by listing the follwing attributes:
+    title,
+    poster,
+    plot,
+    genres
+
+    USE THIS API :  https://pelec4.herokuapp.com/movies
+
+
+
+##When the user clicks on a particular Movie card, display a page that will display all of the remaining attributes of the movie
+    USE THIS API :  https://pelec4.herokuapp.com/movies/:movieId
+    *The ':movieId' parameter will be based on the the "_id" attribute of the movie
+
+
+##You are free to use any designs or templates that you might found on the web 
+##Just stick with following scopes:
+    -A page that will display all movies
+    -A page/view that will display a single movie
